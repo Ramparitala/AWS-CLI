@@ -31,4 +31,4 @@ sudo sls invoke -function hello
 
 # Invoke function locally 
 sudo sls invoke local -function hello 
-
+#END

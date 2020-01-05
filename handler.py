@@ -21,4 +21,3 @@ def hello(event, context):
         "message": "Hello Welcome to serverless function!",
         "event": event
     }
-    """

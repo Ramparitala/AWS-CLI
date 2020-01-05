@@ -98,3 +98,4 @@ aws ec2 create-nat-gateway --allocation-id eipalloc-0fc12cd6b38c81bf8 --subnet-i
 #create route to private subnet to get internet via nat-gateway
 aws ec2 create-route --route-table-id rtb-0137ed055e2f3b646 --nat-gateway-id nat-06ac39558ea001c0e --destination-cidr-block 0.0.0.0/0
 # Private subnet subnet-09989cbd6d74c4031
+#END

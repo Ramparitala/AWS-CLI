@@ -12,4 +12,4 @@ aws autoscaling create-auto-scaling-group --auto-scaling-group-name lamp-asg-cli
       Loadbalencer 
       Attach Loadbalencer to autoscaling group
 
-
+#END
